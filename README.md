@@ -1,2 +1,2 @@
 # Footwear-Project
-This is a practice project, it is a static website, fully responsive and mobile friendly, it is basically a footwear {Shoes} Store Website. 
+Practice project, static web app, fully responsive, Languages used are HTML, CSS, FlexBox, Media Queries {For Break Points}. 
